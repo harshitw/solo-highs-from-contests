@@ -14,3 +14,5 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-08-perennial-v2-update-3-judging/issues/27
 - https://github.com/sherlock-audit/2024-08-perennial-v2-update-3-judging/issues/84
 - https://github.com/sherlock-audit/2024-08-perennial-v2-update-3-judging/issues/58
+- https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues/106
+- https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues/156

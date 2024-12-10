@@ -1,4 +1,4 @@
-# Solo Critical/High severity findings from contests
+# Solo High severity findings from contests
 
 List of solo high severity findings from contests (from newest to oldest):
 

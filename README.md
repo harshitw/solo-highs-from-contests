@@ -18,3 +18,4 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues/156
 - https://github.com/sherlock-audit/2024-08-velar-artha-judging/issues/66
 - https://code4rena.com/reports/2024-08-wildcat#h-01-user-could-withdraw-more-than-supposed-to-forcing-last-user-withdraw-to-fail
+- https://github.com/code-423n4/2024-08-phi-findings/issues/54

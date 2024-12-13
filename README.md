@@ -19,3 +19,4 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-08-velar-artha-judging/issues/66
 - https://github.com/code-423n4/2024-08-wildcat-findings/issues/64
 - https://github.com/code-423n4/2024-08-phi-findings/issues/54
+- https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues/238

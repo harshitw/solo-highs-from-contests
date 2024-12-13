@@ -30,3 +30,4 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-06-allora-judging/issues/124
 - https://github.com/code-423n4/2024-07-karak-findings/issues/36
 - https://github.com/code-423n4/2024-07-optimism-findings/issues/36
+- https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/237

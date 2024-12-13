@@ -21,3 +21,10 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-08-phi-findings/issues/54
 - https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues/238
 - https://github.com/code-423n4/2024-07-benddao-findings/issues/44
+- https://github.com/code-423n4/2024-07-benddao-findings/issues/23
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/79
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/88
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/12
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/14
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/44
+- https://github.com/sherlock-audit/2024-06-allora-judging/issues/124

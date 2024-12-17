@@ -39,3 +39,9 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://solodit.cyfrin.io/issues/reseedsilo-does-not-set-the-necessary-user-variables-codehawks-beanstalk-the-finale-git
 - https://solodit.cyfrin.io/issues/reseedbarnsol-doesnt-initialize-of-ssysfertrecapitalized-codehawks-beanstalk-the-finale-git
 - https://solodit.cyfrin.io/issues/incorrect-calculation-of-beanusdprice-in-libevaluateevalprice-codehawks-beanstalk-the-finale-git
+- https://github.com/code-423n4/2024-07-dittoeth-findings/issues/2
+- https://github.com/code-423n4/2024-07-dittoeth-findings/issues/18
+- https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/14
+- https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/64
+- https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/43
+- https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/78

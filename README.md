@@ -32,3 +32,10 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-07-optimism-findings/issues/36
 - https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/237
 - https://solodit.cyfrin.io/issues/l2contractmigrationfacet-migrates-incorrect-amount-of-stalk-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/unfair-penalty-fees-in-pipeline-convert-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/all-migrated-silo-users-will-receive-less-stalk-accounted-to-their-account-during-silo-reseed-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/grown-stalk-is-incorrectly-calculated-in-reseedsilo-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/ssyssilounripesettings-are-never-set-after-migration-which-breaks-unripe-functionality-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/reseedsilo-does-not-set-the-necessary-user-variables-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/reseedbarnsol-doesnt-initialize-of-ssysfertrecapitalized-codehawks-beanstalk-the-finale-git
+- https://solodit.cyfrin.io/issues/incorrect-calculation-of-beanusdprice-in-libevaluateevalprice-codehawks-beanstalk-the-finale-git

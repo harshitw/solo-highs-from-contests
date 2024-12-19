@@ -46,3 +46,5 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/64
 - https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/43
 - https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/78
+- https://github.com/sherlock-audit/2024-05-aleo-judging/issues/34
+- https://github.com/sherlock-audit/2024-05-aleo-judging/issues/35

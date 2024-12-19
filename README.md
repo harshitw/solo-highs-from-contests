@@ -48,3 +48,19 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/78
 - https://github.com/sherlock-audit/2024-05-aleo-judging/issues/34
 - https://github.com/sherlock-audit/2024-05-aleo-judging/issues/35
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/27
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/82
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/33
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/118
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/261
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/159
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/114
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/258
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/136
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/261
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/60
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/117
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/79
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/41
+- https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/106
+- 

@@ -63,4 +63,6 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/79
 - https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/41
 - https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/106
-- 
+- https://github.com/sherlock-audit/2024-05-pooltogether-judging/issues/96
+- https://github.com/sherlock-audit/2024-03-arrakis-judging/issues/8
+- https://github.com/sherlock-audit/2024-03-arrakis-judging/issues/44

@@ -91,3 +91,12 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/68
 - https://github.com/code-423n4/2024-03-dittoeth-findings/issues/274
 - https://github.com/code-423n4/2024-03-dittoeth-findings/issues/178
+- https://github.com/sherlock-audit/2024-02-tapioca-judging/issues/32
+- https://github.com/sherlock-audit/2024-02-tapioca-judging/issues/87
+- https://github.com/sherlock-audit/2024-02-tapioca-judging/issues/102
+- https://github.com/code-423n4/2024-03-abracadabra-money-findings/issues/76
+- https://github.com/code-423n4/2024-03-abracadabra-money-findings/issues/221
+- https://github.com/code-423n4/2024-03-zksync-findings/issues/78
+- https://github.com/code-423n4/2024-03-taiko-findings/issues/276
+- https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues/36
+- https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues/99

@@ -67,3 +67,6 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-03-arrakis-judging/issues/8
 - https://github.com/sherlock-audit/2024-03-arrakis-judging/issues/44
 - https://github.com/code-423n4/2024-05-predy-findings/issues/27
+- https://github.com/code-423n4/2024-05-bakerfi-findings/issues/47
+- https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/178
+- https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/219

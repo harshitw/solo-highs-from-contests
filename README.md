@@ -70,3 +70,9 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-05-bakerfi-findings/issues/47
 - https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/178
 - https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/219
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/67
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/48
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/47
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/33
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/28
+- https://github.com/code-423n4/2024-04-gondi-findings/issues/27

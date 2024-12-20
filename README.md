@@ -76,3 +76,15 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-04-gondi-findings/issues/33
 - https://github.com/code-423n4/2024-04-gondi-findings/issues/28
 - https://github.com/code-423n4/2024-04-gondi-findings/issues/27
+- https://solodit.cyfrin.io/issues/when-_dp2pdtokenathbalance-is-increased-the-power-of-almost-all-pools-becomes-stale-cantina-none-goat-tech-pdf
+- https://solodit.cyfrin.io/issues/when-stake-eth-in-earningreinvest-the-reduction-of-maxearning-may-not-work-cantina-none-goat-tech-pdf
+- https://solodit.cyfrin.io/issues/recalep2pdbalance-should-be-called-before-p2udtokenburn-mint-not-after-cantina-none-goat-tech-pdf
+- https://solodit.cyfrin.io/issues/when-the-poolowner-gets-shared-earnings-the-power-of-that-pool-becomes-stale-cantina-none-goat-tech-pdf
+- https://solodit.cyfrin.io/issues/the-pool-owner-can-manipulate-users-to-steal-all-of-their-stake-amounts-by-using-code-edge-case-cantina-none-goat-tech-pdf
+- https://solodit.cyfrin.io/issues/attacker-can-take-advantage-of-multiplier-when-there-s-only-one-second-left-allowing-them-to-fraudulently-gain-voting-power-cantina-none-goat-tech-pdf
+- https://github.com/sherlock-audit/2024-02-perennial-v2-3-judging/issues/5
+- https://github.com/sherlock-audit/2024-02-perennial-v2-3-judging/issues/26
+- https://github.com/code-423n4/2024-04-panoptic-findings/issues/438
+- https://github.com/sherlock-audit/2024-03-nouns-dao-2-judging/issues/46
+- https://github.com/sherlock-audit/2024-03-nouns-dao-2-judging/issues/51
+- https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/83

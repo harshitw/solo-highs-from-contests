@@ -88,3 +88,6 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/sherlock-audit/2024-03-nouns-dao-2-judging/issues/46
 - https://github.com/sherlock-audit/2024-03-nouns-dao-2-judging/issues/51
 - https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/83
+- https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/68
+- https://github.com/code-423n4/2024-03-dittoeth-findings/issues/274
+- https://github.com/code-423n4/2024-03-dittoeth-findings/issues/178

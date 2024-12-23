@@ -106,3 +106,5 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-02-tapioca-findings/issues/54
 - https://github.com/code-423n4/2024-02-tapioca-findings/issues/45
 - https://github.com/code-423n4/2024-02-tapioca-findings/issues/44
+- https://github.com/sherlock-audit/2024-01-napier-judging/issues/80
+- https://github.com/sherlock-audit/2024-01-napier-judging/issues/90

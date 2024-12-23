@@ -108,3 +108,12 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-02-tapioca-findings/issues/44
 - https://github.com/sherlock-audit/2024-01-napier-judging/issues/80
 - https://github.com/sherlock-audit/2024-01-napier-judging/issues/90
+- https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215
+- https://github.com/code-423n4/2024-02-wise-lending-findings/issues/33
+- https://github.com/sherlock-audit/2023-12-arcadia-judging/issues/140
+- https://solodit.cyfrin.io/issues/ineffective-slippage-control-cantina-none-olas-pdf
+- https://solodit.cyfrin.io/issues/a-malicious-user-can-inflate-his-voting-power-via-merge-cantina-none-zerolend-pdf
+- https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/57
+- https://github.com/code-423n4/2024-01-salty-findings/issues/712
+- https://github.com/code-423n4/2024-01-opus-findings/issues/195
+- https://github.com/code-423n4/2024-01-curves-findings/issues/17

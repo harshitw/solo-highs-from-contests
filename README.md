@@ -100,3 +100,9 @@ List of solo high severity findings from contests (from newest to oldest):
 - https://github.com/code-423n4/2024-03-taiko-findings/issues/276
 - https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues/36
 - https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues/99
+- https://github.com/code-423n4/2024-03-revert-lend-findings/issues/214
+- https://github.com/code-423n4/2024-02-tapioca-findings/issues/77
+- https://github.com/code-423n4/2024-02-tapioca-findings/issues/76
+- https://github.com/code-423n4/2024-02-tapioca-findings/issues/54
+- https://github.com/code-423n4/2024-02-tapioca-findings/issues/45
+- https://github.com/code-423n4/2024-02-tapioca-findings/issues/44
